@@ -1,0 +1,6 @@
+No;NIM;Nama Mahasiswa;Program Study;Semester;Alasan Cuti;Status Pengajuan;Tanggal Pengajuan;Tanggal Persetujuan;Tanggal Penolakan ;Catatan;Biaya Administrasi;Pengembalian Dana
+1;12345678;Ahmad Pratama;Teknik Informatika;4;Kesehatan;Disetujui;01/07/2023;05/07/2023;;;Rp100.000;Rp500.000
+2;87654321;Ahmad Fauzi;Manajemen;6;Keuangan;Ditolak;02/07/2023;;06/07/2023;Alasan kurang kuat;Rp100.000;
+3;11223344;Budi Santoso;Akuntansi;5;Kerja Sementara;Disetujui;03/07/2023;07/07/2023;;;Rp100.000;Rp600.000
+4;44332211;Clara Anindita;Psikologi;3;Keluarga;Disetujui;04/07/2023;08/07/2023;;;Rp100.000;Rp700.000
+5;99887766;Dian Kartika;Hukum;2;Persiapan Kompetisi;Ditolak;05/07/2023;;09/07/2023;Kurang dokumen pendukung;Rp100.000;
